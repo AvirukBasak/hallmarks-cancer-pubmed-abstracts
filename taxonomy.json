@@ -1,0 +1,251 @@
+{
+  "generated_from": "data/corpus/cei/class",
+  "num_abstracts": 1852,
+  "num_label_occurrences": 5521,
+  "num_top_level_components": 11,
+  "forest": [
+    {
+      "name": "activating invasion and metastasis",
+      "count": 73,
+      "subtree": 672,
+      "children": [
+        {
+          "name": "invasion",
+          "count": 282,
+          "subtree": 282,
+          "children": []
+        },
+        {
+          "name": "metastasis",
+          "count": 317,
+          "subtree": 317,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "avoiding immune destruction",
+      "count": 4,
+      "subtree": 226,
+      "children": [
+        {
+          "name": "immune response",
+          "count": 152,
+          "subtree": 152,
+          "children": []
+        },
+        {
+          "name": "immunosuppression",
+          "count": 70,
+          "subtree": 70,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "cellular energetics",
+      "count": 18,
+      "subtree": 226,
+      "children": [
+        {
+          "name": "glycolysis-or-warburg effect",
+          "count": 208,
+          "subtree": 208,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "enabling replicative immortality",
+      "count": 5,
+      "subtree": 301,
+      "children": [
+        {
+          "name": "immortalization",
+          "count": 111,
+          "subtree": 111,
+          "children": []
+        },
+        {
+          "name": "senescence",
+          "count": 185,
+          "subtree": 185,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "evading growth suppressors",
+      "count": 0,
+      "subtree": 372,
+      "children": [
+        {
+          "name": "by deregulating cell cycle checkpoints",
+          "count": 16,
+          "subtree": 254,
+          "children": [
+            {
+              "name": "cell cycle",
+              "count": 238,
+              "subtree": 238,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "by evading contact inhibition",
+          "count": 118,
+          "subtree": 118,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "genomic instability and mutation",
+      "count": 38,
+      "subtree": 841,
+      "children": [
+        {
+          "name": "dna damage",
+          "count": 157,
+          "subtree": 375,
+          "children": [
+            {
+              "name": "adducts",
+              "count": 97,
+              "subtree": 97,
+              "children": []
+            },
+            {
+              "name": "strand breaks",
+              "count": 121,
+              "subtree": 121,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "dna repair mechanisms",
+          "count": 213,
+          "subtree": 213,
+          "children": []
+        },
+        {
+          "name": "mutation",
+          "count": 215,
+          "subtree": 215,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "inducing angiogenesis",
+      "count": 8,
+      "subtree": 358,
+      "children": [
+        {
+          "name": "by deregulating angiogenesis",
+          "count": 179,
+          "subtree": 350,
+          "children": [
+            {
+              "name": "angiogenic factors",
+              "count": 171,
+              "subtree": 171,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "null",
+      "count": 11,
+      "subtree": 11,
+      "children": []
+    },
+    {
+      "name": "resisting cell death",
+      "count": 19,
+      "subtree": 896,
+      "children": [
+        {
+          "name": "apoptosis",
+          "count": 612,
+          "subtree": 612,
+          "children": []
+        },
+        {
+          "name": "autophagy",
+          "count": 157,
+          "subtree": 157,
+          "children": []
+        },
+        {
+          "name": "necrosis",
+          "count": 108,
+          "subtree": 108,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "sustaining proliferative signaling",
+      "count": 89,
+      "subtree": 1079,
+      "children": [
+        {
+          "name": "cell cycle",
+          "count": 320,
+          "subtree": 320,
+          "children": []
+        },
+        {
+          "name": "growth factors growth promoting signals",
+          "count": 187,
+          "subtree": 325,
+          "children": [
+            {
+              "name": "downstream signaling",
+              "count": 138,
+              "subtree": 138,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "receptors",
+          "count": 345,
+          "subtree": 345,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "tumor promoting inflammation",
+      "count": 6,
+      "subtree": 539,
+      "children": [
+        {
+          "name": "immune response",
+          "count": 78,
+          "subtree": 78,
+          "children": []
+        },
+        {
+          "name": "inflammation",
+          "count": 214,
+          "subtree": 455,
+          "children": [
+            {
+              "name": "oxidative stress",
+              "count": 241,
+              "subtree": 241,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
